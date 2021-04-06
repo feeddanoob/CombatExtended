@@ -80,6 +80,7 @@ Dragonian Race	|
 Dragon's Descent    |
 Dragons!	|
 ED-Shields	|
+Epona The centaur race  |
 Equiums Horse Race	|
 Erin's Critter Collection |
 Erin's Forest Critters |
@@ -147,6 +148,7 @@ More Utility Packs	|
 More Vanilla Turrets	|
 Moyo - From the Depth   |
 Nearmare Race	|
+Neclose Race	|
 NewRatkinPlus |
 Ni'Hal	|
 Not Only Just a Cannon  |
