@@ -122,6 +122,7 @@ Japanese Dogs   |
 Jernfalk's Standalone Horses	|
 Jernalk's Skeletal Legion (Continued)	|
 Kaiser Armory	|
+Kenshi Armory |
 K.L.K - Styles Apparel Pack	|
 Kijin Race 2.0     	|     
 Kill la Kill Styles Pack    |
@@ -220,6 +221,7 @@ Vanilla Furniture Expanded -  Security |
 Vanilla Vehicles Expanded	|
 Vanilla Weapons Expanded |
 Vanilla Weapons Expanded - Grenades |
+Vanilla Weapons Expanded - Heavy Weapons |
 Vanilla Weapons Expanded Quickdraw	|
 Vanilla-Friendly Animal Surgery	|
 Vanilla-Friendly Weapon Expansion	|
