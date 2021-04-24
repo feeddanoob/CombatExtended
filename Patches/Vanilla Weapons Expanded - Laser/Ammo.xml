@@ -18,7 +18,8 @@
           <defName>AmmoSet_SalvagedLaserPistol</defName>
           <label>laser charge</label>
           <ammoTypes>
-            <Ammo_PlasmaCellRifle>Bullet_Laser_SalvagedLaserPistol</Ammo_PlasmaCellRifle>
+            <Ammo_LaserChargePack>Bullet_Laser_SalvagedLaserPistol</Ammo_LaserChargePack>
+
           </ammoTypes>
         </CombatExtended.AmmoSetDef>
 
@@ -26,7 +27,7 @@
           <defName>AmmoSet_LaserPistol</defName>
           <label>laser charge</label>
           <ammoTypes>
-            <Ammo_PlasmaCellRifle>Bullet_Laser_LaserPistol</Ammo_PlasmaCellRifle>
+            <Ammo_LaserChargePack>Bullet_Laser_LaserPistol</Ammo_LaserChargePack>
           </ammoTypes>
         </CombatExtended.AmmoSetDef>
 
@@ -34,7 +35,7 @@
           <defName>AmmoSet_LaserSMG</defName>
           <label>laser charge</label>
           <ammoTypes>
-            <Ammo_PlasmaCellRifle>Bullet_Laser_LaserSMG</Ammo_PlasmaCellRifle>
+            <Ammo_LaserChargePack>Bullet_Laser_LaserSMG</Ammo_LaserChargePack>
           </ammoTypes>
         </CombatExtended.AmmoSetDef>
 
@@ -42,7 +43,7 @@
           <defName>AmmoSet_SalvagedLaserRifle</defName>
           <label>laser charge</label>
           <ammoTypes>
-            <Ammo_PlasmaCellRifle>Bullet_Laser_SalvagedLaserRifle</Ammo_PlasmaCellRifle>
+            <Ammo_LaserChargePack>Bullet_Laser_SalvagedLaserRifle</Ammo_LaserChargePack>
           </ammoTypes>
         </CombatExtended.AmmoSetDef>
 
@@ -50,7 +51,7 @@
           <defName>AmmoSet_LaserRifle</defName>
           <label>laser charge</label>
           <ammoTypes>
-            <Ammo_PlasmaCellRifle>Bullet_Laser_LaserRifle</Ammo_PlasmaCellRifle>
+            <Ammo_LaserChargePack>Bullet_Laser_LaserRifle</Ammo_LaserChargePack>
           </ammoTypes>
         </CombatExtended.AmmoSetDef>
 
@@ -58,7 +59,7 @@
           <defName>AmmoSet_SalvagedLaserShotgun</defName>
           <label>laser charge</label>
           <ammoTypes>
-            <Ammo_PlasmaCellRifle>Bullet_Laser_SalvagedLaserShotgun</Ammo_PlasmaCellRifle>
+            <Ammo_LaserChargePack>Bullet_Laser_SalvagedLaserShotgun</Ammo_LaserChargePack>
           </ammoTypes>
         </CombatExtended.AmmoSetDef>
 
@@ -66,7 +67,7 @@
           <defName>AmmoSet_LaserShotgun</defName>
           <label>laser charge</label>
           <ammoTypes>
-            <Ammo_PlasmaCellRifle>Bullet_Laser_LaserShotgun</Ammo_PlasmaCellRifle>
+            <Ammo_LaserChargePack>Bullet_Laser_LaserShotgun</Ammo_LaserChargePack>
           </ammoTypes>
         </CombatExtended.AmmoSetDef>
 
@@ -74,7 +75,7 @@
           <defName>AmmoSet_SalvagedLaserSniperRifle</defName>
           <label>laser charge</label>
           <ammoTypes>
-            <Ammo_PlasmaCellRifle>Bullet_Laser_SalvagedLaserSniperRifle</Ammo_PlasmaCellRifle>
+            <Ammo_LaserChargePack>Bullet_Laser_SalvagedLaserSniperRifle</Ammo_LaserChargePack>
           </ammoTypes>
         </CombatExtended.AmmoSetDef>
 
@@ -82,7 +83,7 @@
           <defName>AmmoSet_LaserSniperRifle</defName>
           <label>laser charge</label>
           <ammoTypes>
-            <Ammo_PlasmaCellRifle>Bullet_Laser_LaserSniperRifle</Ammo_PlasmaCellRifle>
+            <Ammo_LaserChargePack>Bullet_Laser_LaserSniperRifle</Ammo_LaserChargePack>
           </ammoTypes>
         </CombatExtended.AmmoSetDef>
 
@@ -90,7 +91,7 @@
           <defName>AmmoSet_LaserMiniGun</defName>
           <label>laser charge</label>
           <ammoTypes>
-            <Ammo_PlasmaCellRifle>Bullet_Laser_LaserMiniGun</Ammo_PlasmaCellRifle>
+            <Ammo_LaserChargePack>Bullet_Laser_LaserMiniGun</Ammo_LaserChargePack>
           </ammoTypes>
         </CombatExtended.AmmoSetDef>
 
@@ -98,7 +99,7 @@
           <defName>AmmoSet_LaserTeslaGun</defName>
           <label>laser charge</label>
           <ammoTypes>
-            <Ammo_PlasmaCellRifle>Bullet_Laser_TeslaGun</Ammo_PlasmaCellRifle>
+            <Ammo_LaserChargePack>Bullet_Laser_TeslaGun</Ammo_LaserChargePack>
           </ammoTypes>
         </CombatExtended.AmmoSetDef>
 
