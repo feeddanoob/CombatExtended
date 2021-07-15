@@ -100,6 +100,7 @@ Erin's Friendly Ferrets |
 Erin's Fox Squirrel |
 Erin's Lizard Doggo |
 Erin's Mountain Animals |
+Exotic Arsenal |
 Expanded Materials - Metals |
 Expanded Materials - Plastics |
 Expanded Patchleather	|
@@ -122,6 +123,7 @@ Genetic Rim |
 Genetic Rim Alpha Animal Patch |
 GeneticRim Cosmic Horrors Patch |
 GeneticRim Dinosauria Patch |
+GeneticRim Megafauna Patch |
 Girls' Frontline Apparel Pack	|
 Girls' Frontline Styles - 404 Team	|
 Girls' Frontline Weapon Pack	|
@@ -152,6 +154,7 @@ Leeani Playable Race	|
 Let's Have a Cat!	|
 Logann Race	|
 Magical Menagerie	|
+Magic Wands |
 Marilyn the Mincho Worshipper Witch |
 Mass Effect - Playable Geth |
 Mechanoids Extraordinaire	|
@@ -217,6 +220,7 @@ Rimefeller	|
 RimEffect - Asari of the Rims	|
 Rimfire	|
 Rim-Hivers!	|
+Rim Flood	|
 Rim-Shek	|
 RimSec Security |
 Rimsenal - Core |
@@ -245,6 +249,7 @@ The Mantodean insectoid race	|
 T-45b Power Armor	|
 The GiantRace	|
 The Joris Experience	|
+Thog's Guns - More Brukka Pack  |
 TouhouStyle	|
 Trading Economy	|
 Tribal Warrior Set! |
