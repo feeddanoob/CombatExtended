@@ -137,6 +137,8 @@
 	</Operation>
 	<!-- ==== Common Verbs ==== -->
 	<!-- In game only one projectile gets chosen for the dragons when tamed deselect/select options -->
+    <!-- No longer needed, this is in the VFE class under PawnKindDef-->
+    <!--
 	<Operation Class="PatchOperationReplace">
 		<xpath>
 			Defs/ThingDef[
@@ -178,6 +180,7 @@
 			</verbs>
 		</value>
 	</Operation>
+    -->
 	<!-- ==== Unique Tools ==== -->
 	<!-- == Gold Dragon == -->
 	<Operation Class="PatchOperationAdd">

@@ -192,6 +192,8 @@
 	</Operation>
 	<!-- ==== Base Verbs ==== -->
 	<!-- In game only one projectile gets chosen for the dragons when tamed deselect/select options -->
+    <!-- No longer Needed -->
+    <!--
 	<Operation Class="PatchOperationReplace">
 		<xpath>
 			Defs/ThingDef[
@@ -236,6 +238,7 @@
 			</verbs>
 		</value>
 	</Operation>
+    -->
 	<!-- ==== Unique Tools and Verbs ==== -->
 	<!-- == Black Dragon == -->
 	<Operation Class="PatchOperationAdd">

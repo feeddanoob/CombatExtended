@@ -42,5 +42,36 @@
 			</extraDamages>
 		</projectile>
 	</ThingDef>
+    
+    <!-- New CE Projectile to replace the DD projetile for Dragon Spit -->
+    
+    <ThingDef ParentName="BaseBulletCE">
+		<defName>CE_Projectile_DragonSpit</defName>
+		<label>Spit</label>
+		<category>Projectile</category>
+		<tickerType>Normal</tickerType>
+		<altitudeLayer>Projectile</altitudeLayer>
+		<useHitPoints>False</useHitPoints>
+		<neverMultiSelect>True</neverMultiSelect>
+		<thingClass>CombatExtended.ProjectileCE</thingClass>
+		<graphicData>
+			<shaderType>TransparentPostLight</shaderType>
+			<texPath>AnimalProjectile/DragonSpit</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<projectile Class="CombatExtended.ProjectilePropertiesCE">
+			<speed>26</speed>
+			<damageDef>DraconicFlame</damageDef>
+			<explosionRadius>3</explosionRadius>
+			<damageAmountBase>30</damageAmountBase>
+			<preExplosionSpawnThingDef>Filth_Ash</preExplosionSpawnThingDef>
+			<preExplosionSpawnChance>0.3</preExplosionSpawnChance>
+			<ai_IsIncendiary>true</ai_IsIncendiary>
+			<arcHeightFactor>0.2</arcHeightFactor>
+			<shadowSize>1</shadowSize>
+			<explosionDamageFalloff>false</explosionDamageFalloff>
+			<armorPenetrationBase>1</armorPenetrationBase>
+		</projectile>
+	</ThingDef>
 
 </Defs>
